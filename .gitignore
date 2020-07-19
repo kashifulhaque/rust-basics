@@ -6,3 +6,4 @@ functions/target/
 control_flow/target/
 fibonacci/target/
 ownership/target/
+references_and_borrowing/target/
