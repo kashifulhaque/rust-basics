@@ -1,7 +1,7 @@
 use std::io;
 
 fn main() {
-    println!("** PRINT THE FIRST N FIBONACCI nBERS **");
+    println!("** PRINT THE FIRST N FIBONACCI NUMBERS **");
     println!();
 
     println!("Enter a number: ");
